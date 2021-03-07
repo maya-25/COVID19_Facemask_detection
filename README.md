@@ -13,7 +13,7 @@ Here MobileNetV2(weights="imagenet") transfer learning is used for traning the m
 
 
 
-references:
+References:
 
 1.M. R. Bhuiyan, S. A. Khushbu and M. S. Islam, "A Deep Learning Based Assistive System to Classify COVID-19 Face Mask for Human Safety with YOLOv3," 2020 11th International Conference on Computing, Communication and Networking Technologies (ICCCNT), Kharagpur, India, 2020, pp. 1-5, doi: 10.1109/ICCCNT49239.2020.9225384.
 
