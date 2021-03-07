@@ -9,6 +9,8 @@ Here libraries used:
 6.deploy.prototxt,res_ssd_300Dim - These two files required for setting the camera and detecting the face.
 
 
+
+The sample images of dataset which can be found in datset1.zip folder.
 Here MobileNetV2(weights="imagenet") transfer learning is used for traning the model initially.
 
 
