@@ -1,4 +1,4 @@
-# COVID19_mask_nomask
+# COVID19_Facemask_detection
 It will tell whether the person wearing mask or not in order to protect nose and mouth from Corona virus
 Here libraries used: 
 1.Tensorflow
