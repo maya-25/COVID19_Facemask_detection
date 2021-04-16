@@ -1,12 +1,12 @@
 # COVID19_Facemask_detection
 It will tell whether the person wearing mask or not in order to protect nose and mouth from Corona virus
 Here libraries used: 
-1.Tensorflow
-2.scikit-learn
-3.numpy
-4.Matplotlib
-5.imutils for video streaming and for setting up the camera frame.
-6.deploy.prototxt,res_ssd_300Dim - These two files required for setting the camera and detecting the face.
+* Tensorflow
+* scikit-learn
+* numpy
+* Matplotlib
+* imutils for video streaming and for setting up the camera frame.
+* deploy.prototxt,res_ssd_300Dim - These two files required for setting the camera and detecting the face.
 
 
 
